@@ -1,0 +1,30 @@
+.header-card {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  justify-content: space-between;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.header-img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.link-card {
+  display: flex;
+  align-items: center;
+}

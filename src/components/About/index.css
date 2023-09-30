@@ -1,0 +1,24 @@
+.about {
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img {
+  width: 240px;
+  height: 240px;
+}
+
+.about-para {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #551e53;
+  font-weight: bold;
+}
+.para {
+  color: #555555;
+  font-family: Roboto;
+}

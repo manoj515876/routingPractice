@@ -1,0 +1,20 @@
+.contact {
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-img {
+  width: 240px;
+  height: 240px;
+}
+
+.contact-para {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #551e53;
+  font-weight: bold;
+}
